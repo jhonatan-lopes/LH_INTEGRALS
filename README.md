@@ -2,7 +2,7 @@
  
 A set of Lipschitz-Hankel integrals in MATLAB.
 
-From a fundamental integral (J_000),
+From a fundamental integral (J<sub>000</sub>),
 other integrals were obtained through differentiation and recursion relationships 
 (see [Eason, Noble & Sneddon](https://royalsocietypublishing.org/doi/abs/10.1098/rsta.1955.0005)),
 via a Mathematica script.
